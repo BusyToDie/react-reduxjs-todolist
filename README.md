@@ -1,5 +1,3 @@
 # react-todolist
 
-# 访问
-
-https://busytodie.github.io/react-todolist/
+点击查看：https://busytodie.github.io/react-todolist/
